@@ -1,2 +1,2 @@
 # html-Resume
-Just using HTML to create a Resume with Hobbies page and Contact page
+Using HTML to create a Resume with a Hobbies page and Contact page
